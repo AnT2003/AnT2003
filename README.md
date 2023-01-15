@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AnT
 - 👀 I’m interested in Technology, Music, LOL and Work with data
 - 🌱 I’m currently learning Data Science at UEH university
-- 💞️ I’m looking to collaborate on IBM
+- 💞️ I’m looking to collaborate on IBM, Google, VNG, VinGroup and so on
 - 📫 How to reach me: anthai.31211027626@st.ueh.edu.vn
 - 👀 My Profile: https://www.linkedin.com/in/th%C3%A1i-b%E1%BA%A3o-an-06026a262/
