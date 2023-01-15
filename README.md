@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science at UEH university
 - 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me: anthai.31211027626@st.ueh.edu.vn
----My Profile: https://www.linkedin.com/in/th%C3%A1i-b%E1%BA%A3o-an-06026a262/
+- 👀 My Profile: https://www.linkedin.com/in/th%C3%A1i-b%E1%BA%A3o-an-06026a262/
